@@ -22,6 +22,20 @@
       "when": 1728378375070,
       "tag": "0002_clammy_mindworm",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1728386007323,
+      "tag": "0003_white_scorpion",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1728386409076,
+      "tag": "0004_wild_shotgun",
+      "breakpoints": true
     }
   ]
 }
