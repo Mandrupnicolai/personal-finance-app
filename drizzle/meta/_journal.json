@@ -15,6 +15,13 @@
       "when": 1718313567931,
       "tag": "0001_happy_vampiro",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1728378375070,
+      "tag": "0002_clammy_mindworm",
+      "breakpoints": true
     }
   ]
 }
